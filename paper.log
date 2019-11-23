@@ -1,0 +1,439 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.14)  22 NOV 2019 19:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/warproxxx/Desktop/Projects/insider-trading/paper/paper.tex
+(/home/warproxxx/Desktop/Projects/insider-trading/paper/paper.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/home/warproxxx/Desktop/Projects/insider-trading/paper/aaai19.sty
+Conference Style for AAAI for LaTeX 2e -- version for the AAAI-19 conference
+\titlebox=\skip43
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/courier.sty
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks15
+\float@box=\box27
+\@float@everytoks=\toks16
+\@floatcapt=\box28
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen105
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip11
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks18
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks19
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip47
+\enit@outerparindent=\dimen114
+\enit@toks=\toks22
+\enit@inbox=\box31
+\enit@count@id=\count101
+\enitdp@description=\count102
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen115
+\captionmargin@=\dimen116
+\captionwidth=\dimen117
+\caption@tempdima=\dimen118
+\caption@indent=\dimen119
+\caption@parindent=\dimen120
+\caption@hangindent=\dimen121
+)
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count105
+\c@subtable=\count106
+) (/home/warproxxx/Desktop/Projects/insider-trading/paper/paper.aux
+
+LaTeX Warning: Label `fig:bitcoin' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:bitcoin' multiply defined.
+
+
+LaTeX Warning: Label `fig:ethereum' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ethereum' multiply defined.
+
+
+LaTeX Warning: Label `fig:zcash' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:zcash' multiply defined.
+
+
+LaTeX Warning: Label `fig:litecoin' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:litecoin' multiply defined.
+
+
+LaTeX Warning: Label `fig:etc' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:etc' multiply defined.
+
+)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen122
+\scratchbox=\box32
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen123
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 33.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+
+Overfull \hbox (18.26434pt too wide) in paragraph at lines 87--96
+[][] 
+ []
+
+[1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 127.
+ [2]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 259.
+
+
+Overfull \hbox (10.59416pt too wide) in paragraph at lines 260--274
+[][] 
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 307.
+
+
+LaTeX Warning: Float too large for page by 69.96991pt on input line 328.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 330.
+
+
+Overfull \hbox (14.85413pt too wide) in paragraph at lines 331--351
+[][] 
+ []
+
+[3] [4] [5]
+Overfull \hbox (17.42455pt too wide) in paragraph at lines 457--466
+[][] 
+ []
+
+<images/portfolio/ETH.png, id=22, 433.62pt x 289.08pt>
+File: images/portfolio/ETH.png Graphic file (type png)
+<use images/portfolio/ETH.png>
+Package pdftex.def Info: images/portfolio/ETH.png  used on input line 501.
+(pdftex.def)             Requested size: 95.75629pt x 63.83598pt.
+<images/portfolio/ZEC.png, id=24, 433.62pt x 289.08pt>
+File: images/portfolio/ZEC.png Graphic file (type png)
+<use images/portfolio/ZEC.png>
+Package pdftex.def Info: images/portfolio/ZEC.png  used on input line 505.
+(pdftex.def)             Requested size: 95.75629pt x 63.83598pt.
+<images/portfolio/BTC.png, id=25, 433.62pt x 289.08pt>
+File: images/portfolio/BTC.png Graphic file (type png)
+<use images/portfolio/BTC.png>
+Package pdftex.def Info: images/portfolio/BTC.png  used on input line 509.
+(pdftex.def)             Requested size: 95.75629pt x 63.83598pt.
+<images/portfolio/ETC.png, id=26, 433.62pt x 289.08pt>
+File: images/portfolio/ETC.png Graphic file (type png)
+<use images/portfolio/ETC.png>
+Package pdftex.def Info: images/portfolio/ETC.png  used on input line 513.
+(pdftex.def)             Requested size: 95.75629pt x 63.83598pt.
+<images/portfolio/LTC.png, id=27, 433.62pt x 289.08pt>
+File: images/portfolio/LTC.png Graphic file (type png)
+<use images/portfolio/LTC.png>
+Package pdftex.def Info: images/portfolio/LTC.png  used on input line 517.
+(pdftex.def)             Requested size: 95.75629pt x 63.83598pt.
+[6 </home/warproxxx/Desktop/Projects/insider-trading/paper/images/portfolio/ETH.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/portfolio/ZEC.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/portfolio/BTC.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/portfolio/ETC.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/portfolio/LTC.png>]
+<images/case1.png, id=36, 1156.32pt x 578.16pt>
+File: images/case1.png Graphic file (type png)
+<use images/case1.png>
+Package pdftex.def Info: images/case1.png  used on input line 572.
+(pdftex.def)             Requested size: 239.39438pt x 119.69688pt.
+<images/case2.png, id=37, 1156.32pt x 578.16pt>
+File: images/case2.png Graphic file (type png)
+<use images/case2.png>
+Package pdftex.def Info: images/case2.png  used on input line 591.
+(pdftex.def)             Requested size: 239.39438pt x 119.69688pt.
+<images/case3.png, id=38, 1156.32pt x 578.16pt>
+File: images/case3.png Graphic file (type png)
+<use images/case3.png>
+Package pdftex.def Info: images/case3.png  used on input line 605.
+(pdftex.def)             Requested size: 239.39438pt x 119.69688pt.
+ [7 </home/warproxxx/Desktop/Projects/insider-trading/paper/images/case1.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/case2.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/case3.png>] (/home/warproxxx/Desktop/Projects/insider-trading/paper/paper.bbl
+Underfull \hbox (badness 2310) in paragraph at lines 651--1
+[]\OT1/ptm/m/n/10 Finally, dif-fer-ent groups may have caused dif-fer-ent
+ []
+
+) [8]
+Overfull \hbox (32.39546pt too wide) in paragraph at lines 669--707
+[][] 
+ []
+
+[9
+
+]
+<images/BTC.jpg, id=53, 702.625pt x 501.875pt>
+File: images/BTC.jpg Graphic file (type jpg)
+<use images/BTC.jpg>
+Package pdftex.def Info: images/BTC.jpg  used on input line 720.
+(pdftex.def)             Requested size: 227.64894pt x 162.602pt.
+<images/ETH.jpg, id=54, 702.625pt x 501.875pt>
+File: images/ETH.jpg Graphic file (type jpg)
+<use images/ETH.jpg>
+Package pdftex.def Info: images/ETH.jpg  used on input line 725.
+(pdftex.def)             Requested size: 227.64894pt x 162.602pt.
+<images/LTC.jpg, id=55, 702.625pt x 501.875pt>
+File: images/LTC.jpg Graphic file (type jpg)
+<use images/LTC.jpg>
+Package pdftex.def Info: images/LTC.jpg  used on input line 730.
+(pdftex.def)             Requested size: 227.64894pt x 162.602pt.
+<images/ZEC.jpg, id=56, 702.625pt x 501.875pt>
+File: images/ZEC.jpg Graphic file (type jpg)
+<use images/ZEC.jpg>
+Package pdftex.def Info: images/ZEC.jpg  used on input line 735.
+(pdftex.def)             Requested size: 227.64894pt x 162.602pt.
+<images/ETC.jpg, id=57, 702.625pt x 501.875pt>
+File: images/ETC.jpg Graphic file (type jpg)
+<use images/ETC.jpg>
+Package pdftex.def Info: images/ETC.jpg  used on input line 740.
+(pdftex.def)             Requested size: 227.64894pt x 162.602pt.
+ [10 </home/warproxxx/Desktop/Projects/insider-trading/paper/images/BTC.jpg> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/ETH.jpg> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/LTC.jpg> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/ZEC.jpg> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/ETC.jpg>]
+Overfull \vbox (47.79787pt too high) has occurred while \output is active []
+
+ [11]
+<images/backtest/BTC.png, id=64, 1267.73625pt x 572.1375pt>
+File: images/backtest/BTC.png Graphic file (type png)
+<use images/backtest/BTC.png>
+Package pdftex.def Info: images/backtest/BTC.png  used on input line 821.
+(pdftex.def)             Requested size: 505.89pt x 228.30968pt.
+<images/backtest/ETH.png, id=65, 1252.68pt x 568.1225pt>
+File: images/backtest/ETH.png Graphic file (type png)
+<use images/backtest/ETH.png>
+Package pdftex.def Info: images/backtest/ETH.png  used on input line 826.
+(pdftex.def)             Requested size: 505.89pt x 229.4295pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 832.
+
+<images/backtest/ZEC.png, id=66, 1280.785pt x 573.14125pt>
+File: images/backtest/ZEC.png Graphic file (type png)
+<use images/backtest/ZEC.png>
+Package pdftex.def Info: images/backtest/ZEC.png  used on input line 835.
+(pdftex.def)             Requested size: 505.89pt x 226.37518pt.
+<images/backtest/LTC.png, id=67, 1271.75125pt x 563.10374pt>
+File: images/backtest/LTC.png Graphic file (type png)
+<use images/backtest/LTC.png>
+Package pdftex.def Info: images/backtest/LTC.png  used on input line 840.
+(pdftex.def)             Requested size: 505.89pt x 224.00021pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 846.
+
+<images/backtest/ETC.png, id=68, 1287.81125pt x 563.10374pt>
+File: images/backtest/ETC.png Graphic file (type png)
+<use images/backtest/ETC.png>
+Package pdftex.def Info: images/backtest/ETC.png  used on input line 849.
+(pdftex.def)             Requested size: 505.89pt x 221.20773pt.
+[12 </home/warproxxx/Desktop/Projects/insider-trading/paper/images/backtest/BTC.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/backtest/ETH.png>] [13 </home/warproxxx/Desktop/Projects/insider-trading/paper/images/backtest/ZEC.png> </home/warproxxx/Desktop/Projects/insider-trading/paper/images/backtest/LTC.png>] [14 </home/warproxxx/Desktop/Projects/insider-trading/paper/images/backtest/ETC.png>] (/home/warproxxx/Desktop/Projects/insider-trading/paper/paper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3903 strings out of 492623
+ 61080 string characters out of 6129536
+ 163376 words of memory out of 5000000
+ 7753 multiletter control sequences out of 15000+600000
+ 17228 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,40p,565b,432s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/warproxxx/Desktop/Projects/insider-trading/paper/paper.pdf (14 pages, 840844 bytes).
+PDF statistics:
+ 98 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
