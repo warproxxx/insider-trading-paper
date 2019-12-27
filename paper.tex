@@ -392,7 +392,7 @@ We had three options:
    
 We chose the walk-forward validation as it was robust and provided us with a huge test set that could be 
 tested in different market periods. 
-We started with the first 200 days as training set and 80 days after it as the test
+We started with the first 195 days as training set and 80 days after it, after a buffer of 5 to avoid bias, as the test
  set. Then, we increased the size 
  of the training set by 80 days i.e., 280 days with the next 80 days as a test set.
  We repeated this till we reached the end. This way, we had 
